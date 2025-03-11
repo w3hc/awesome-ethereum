@@ -1,0 +1,59 @@
+name: Validate Awesome List
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: "0 0 * * 0" # Run weekly on Sundays
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - name: Install awesome-lint
+        run: npm install -g awesome-lint
+
+      - name: Lint awesome list
+        run: awesome-lint
+
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1.8.0
+        with:
+          args: --verbose --no-progress '**/*.md'
+
+      - name: Create Issue on Link Failure
+        if: ${{ failure() }}
+        uses: peter-evans/create-issue-from-file@v4
+        with:
+          title: Link Checker Report
+          content-filepath: ./lychee/out.md
+          labels: broken-links
+
+  update-toc:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Generate TOC
+        uses: technote-space/toc-generator@v4
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TOC_TITLE: "## Table of Contents"
+          CREATE_PR: false
+          COMMIT_MESSAGE: "docs: update table of contents"
