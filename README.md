@@ -1,16 +1,6 @@
 # Awesome Ethereum [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome Ethereum resources, libraries, tools and more
-
-## Contents
-
-- [Essentials](#essentials)
-- [Libraries](#libraries)
-- [Templates](#templates)
-- [Security](#security)
-- [Devs to follow](#devs-to-follow)
-- [Contribute](#contribute)
-- [Support](#support)
+> A curated list of awesome Ethereum resources, libraries, tools and more.
 
 ## Essentials
 
