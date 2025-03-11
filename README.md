@@ -32,7 +32,7 @@
 - [Genji](https://github.com/w3hc/genji) - A Next.js Web3 template for decentralized applications.
 - [Rukh](https://github.com/w3hc/rukh) - Nest.js-based AI agent starter kit for blockchain projects.
 
-## Security 
+## Security
 
 - [Ethernaut](https://ethernaut.openzeppelin.com/) - Web3/Solidity based wargame to learn security through challenges.
 - [Speedrun Ethereum](https://speedrunethereum.com/) - Learn Ethereum development by completing hands-on challenges.
@@ -43,7 +43,7 @@
 - [Patrick Collins](https://twitter.com/PatrickAlphaC) - Smart contract developer and educator.
 - [Austin Griffith](https://twitter.com/austingriffith) - Creator of Scaffold-ETH and Ethereum educator.
 - [Paul Razvan Berg](https://twitter.com/PaulRBerg) - Solidity and DeFi developer.
-  
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
