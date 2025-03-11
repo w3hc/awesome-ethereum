@@ -6,15 +6,13 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
-- [Awesome Ethereum ](#awesome-ethereum-)
-  - [Table of Contents](#table-of-contents)
-  - [Essentials](#essentials)
-    - [Libraries](#libraries)
-  - [Templates](#templates)
-  - [Security](#security)
-  - [Devs to follow](#devs-to-follow)
-  - [Contribute](#contribute)
-  - [Support](#support)
+- [Essentials](#essentials)
+  - [Libraries](#libraries)
+- [Templates](#templates)
+- [Security](#security)
+- [Devs to follow](#devs-to-follow)
+- [Contribute](#contribute)
+- [Support](#support)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
