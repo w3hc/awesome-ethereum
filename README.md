@@ -3,8 +3,20 @@
 > A curated list of awesome Ethereum resources, libraries, tools and more
 
 ## Table of Contents
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
+- [Essentials](#essentials)
+  - [Libraries](#libraries)
+- [Templates](#templates)
+- [Security](#security)
+- [Devs to follow](#devs-to-follow)
+- [Contribute](#contribute)
+- [License](#license)
+- [Support](#support)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Essentials
 - [Solidity docs](https://docs.soliditylang.org/en/latest/)  
