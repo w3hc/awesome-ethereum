@@ -42,18 +42,3 @@ jobs:
           title: Link Checker Report
           content-filepath: ./lychee/out.md
           labels: broken-links
-
-  update-toc:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-        with:
-          ref: ${{ github.head_ref }}
-
-      - name: Generate TOC
-        uses: technote-space/toc-generator@v4
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TOC_TITLE: "## Table of Contents"
-          CREATE_PR: false
-          COMMIT_MESSAGE: "docs: update table of contents"

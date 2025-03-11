@@ -2,19 +2,17 @@
 
 > A curated list of awesome Ethereum resources, libraries, tools and more
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
+## Contents
 
-- [Essentials](#essentials)
+- [Awesome Ethereum ](#awesome-ethereum-)
+  - [Contents](#contents)
+  - [Essentials](#essentials)
   - [Libraries](#libraries)
-- [Templates](#templates)
-- [Security](#security)
-- [Devs to follow](#devs-to-follow)
-- [Contribute](#contribute)
-- [Support](#support)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+  - [Templates](#templates)
+  - [Security](#security)
+  - [Devs to follow](#devs-to-follow)
+  - [Contribute](#contribute)
+  - [Support](#support)
 
 ## Essentials
 
@@ -26,7 +24,7 @@
 - [Open Zeppelin Wizard](https://wizard.openzeppelin.com/) - Interactive smart contract generator.
 - [Ethereum.org dev resources](https://ethereum.org/en/developers/) - Official Ethereum developer resources and documentation.
 
-### Libraries
+## Libraries
 
 - [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - Library for secure smart contract development.
 
