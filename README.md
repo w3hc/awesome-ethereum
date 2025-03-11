@@ -4,15 +4,13 @@
 
 ## Contents
 
-- [Awesome Ethereum ](#awesome-ethereum-)
-  - [Contents](#contents)
-  - [Essentials](#essentials)
-  - [Libraries](#libraries)
-  - [Templates](#templates)
-  - [Security](#security)
-  - [Devs to follow](#devs-to-follow)
-  - [Contribute](#contribute)
-  - [Support](#support)
+- [Essentials](#essentials)
+- [Libraries](#libraries)
+- [Templates](#templates)
+- [Security](#security)
+- [Devs to follow](#devs-to-follow)
+- [Contribute](#contribute)
+- [Support](#support)
 
 ## Essentials
 
