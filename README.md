@@ -66,6 +66,8 @@
 - [Ultrasound Money](https://ultrasound.money/) - Real-time Ethereum issuance and burn tracker.
 - [clientdiversity.org](https://clientdiversity.org/) - Monitor and improve Ethereum client diversity.
 - [Stable Yields](https://www.stableyields.info/) - APY comparison between stablecoins.
+- [ETH Val](https://ethval.com/) - Ethereum validation and staking information.
+- [Forkcast](https://forkcast.org/) - Ethereum network fork monitoring and predictions.
 
 ## Community & Education
 
@@ -92,6 +94,7 @@
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) - Satoshi Nakamoto, October 31, 2008.
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) - Vitalik Buterin, November 2023.
 - [The Ethereum Cypherpunk Manifesto](https://hackmd.io/@pcaversaccio/the-ethereum-cypherpunk-manifesto) - March 16, 2024.
+- [The Trustless Manifesto](https://trustlessness.eth.limo/general/2025/11/11/the-trustless-manifesto.html) - Yoav Weiss, Vitalik Buterin, Marissa Posner - November 11, 2025.
 
 ## Articles
 
