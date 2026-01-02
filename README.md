@@ -8,14 +8,14 @@
 - [Libraries](#libraries)
 - [Templates](#templates)
 - [Security](#security)
+- [Privacy](#privacy)
 - [Tools](#tools)
 - [Infrastructure](#infrastructure)
+- [Indexers](#indexers)
 - [Analytics & Monitoring](#analytics--monitoring)
 - [Community & Education](#community--education)
 - [Funding & Grants](#funding--grants)
 - [Foundational Texts](#foundational-texts)
-- [Articles](#articles)
-- [Developer Resources](#developer-resources)
 - [Devs to Follow](#devs-to-follow)
 - [Contribute](#contribute)
 - [Contact](#contact)
@@ -37,13 +37,18 @@
 ## Templates
 
 - [W3hC Hardhat Template](https://github.com/w3hc/w3hc-hardhat-template) - A Hardhat template for Ethereum development.
-- [Genji](https://github.com/w3hc/genji) - A Next.js Web3 template for decentralized applications.
+- [Genji](https://genji.w3hc.org) - A Next.js Web3 starter with passkey auth and WCAG 2.1 AA compliant accessibility.
 - [Rukh](https://github.com/w3hc/rukh) - Nest.js-based AI agent starter kit for Blockchain projects.
 
 ## Security
 
 - [Ethernaut](https://ethernaut.openzeppelin.com/) - Web3/Solidity based wargame to learn security through challenges.
 - [Speedrun Ethereum](https://speedrunethereum.com/) - Learn Ethereum development by completing hands-on challenges.
+
+## Privacy
+
+- [Privacy & Scaling Explorations](https://pse.dev/) - Research and development lab delivering privacy to the Ethereum ecosystem.
+- [Kohaku](https://ethereum.github.io/kohaku/getting-started) - Ethereum privacy and development tooling.
 
 ## Tools
 
@@ -59,6 +64,10 @@
 - [IPFS](https://ipfs.tech/) - InterPlanetary File System for decentralized storage.
 - [EAS](https://attest.sh/) - Ethereum Attestation Service for on-chain attestations.
 - [DappNode](https://dappnode.io/) - Decentralized infrastructure platform for running nodes.
+
+## Indexers
+
+- [Ethereum Indexer](https://github.com/jolly-roger-eth/ethereum-indexer) - Ronan's open source indexer for Ethereum data.
 
 ## Analytics & Monitoring
 
@@ -95,14 +104,6 @@
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) - Vitalik Buterin, November 2023.
 - [The Ethereum Cypherpunk Manifesto](https://hackmd.io/@pcaversaccio/the-ethereum-cypherpunk-manifesto) - March 16, 2024.
 - [The Trustless Manifesto](https://trustlessness.eth.limo/general/2025/11/11/the-trustless-manifesto.html) - Yoav Weiss, Vitalik Buterin, Marissa Posner - November 11, 2025.
-
-## Articles
-
-- [Stablecoins: Payments without intermediaries](https://a16zcrypto.com/posts/article/stablecoins-payments-without-intermediaries/) - Chris Dixon on stablecoins as money.
-
-## Developer Resources
-
-- [Ethereum Indexer](https://github.com/jolly-roger-eth/ethereum-indexer) - Ronan's open source indexer for Ethereum data.
 
 ## Devs to Follow
 
