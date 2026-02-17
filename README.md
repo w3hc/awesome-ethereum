@@ -37,6 +37,7 @@
 ## Templates
 
 - [W3hC Hardhat Template](https://github.com/w3hc/w3hc-hardhat-template) - A Hardhat template for Ethereum development.
+- [Paul's Foundry Template](https://github.com/PaulRBerg/foundry-template) - A Foundry-based template for Solidity smart contract development.
 - [Genji](https://genji.w3hc.org) - A Next.js Web3 starter with passkey auth and WCAG 2.1 AA compliant accessibility.
 - [Rukh](https://github.com/w3hc/rukh) - Nest.js-based AI agent starter kit for Blockchain projects.
 
@@ -44,11 +45,14 @@
 
 - [Ethernaut](https://ethernaut.openzeppelin.com/) - Web3/Solidity based wargame to learn security through challenges.
 - [Speedrun Ethereum](https://speedrunethereum.com/) - Learn Ethereum development by completing hands-on challenges.
+- [Superchain Audit Service Providers](https://hackmd.io/@wbnns/superchain-audit-service-providers) - Directory of audit service providers for the Superchain ecosystem.
+- [Rekt](https://rekt.news/) - DeFi security and incident reporting.
 
 ## Privacy
 
 - [Privacy & Scaling Explorations](https://pse.dev/) - Research and development lab delivering privacy to the Ethereum ecosystem.
 - [Kohaku](https://ethereum.github.io/kohaku/getting-started) - Ethereum privacy and development tooling.
+- [Web3Privacy Now](https://web3privacy.info/) - Community initiative advocating for privacy in Web3.
 
 ## Tools
 
@@ -57,6 +61,8 @@
 - [ABI Ninja](https://abi.ninja/) - Ethereum ABI tool for interacting with smart contracts.
 - [BIP39 Tool](https://iancoleman.io/bip39/) - Mnemonic code converter for generating deterministic keys.
 - [Ethereum Digital Oil](https://ethdigitaloil.com/) - ETH as digital commodity resource.
+- [WalletBeat](https://beta.walletbeat.eth.limo/test/) - Wallet evaluation and comparison tool.
+- [7702Beat](https://7702beat.swiss-knife.xyz/#tools) - Tools for EIP-7702 account abstraction.
 
 ## Infrastructure
 
@@ -83,7 +89,6 @@
 - [Etherealize](https://www.etherealize.io/) - Connecting institutions to the Ethereum ecosystem.
 - [ETH Cat Herders](https://www.ethcatherders.com/) - Community coordination and knowledge sharing.
 - [Vitalik's Blog](https://vitalik.eth.limo/) - Thoughts and research from Ethereum's co-founder.
-- [Rekt](https://rekt.news/) - DeFi security and incident reporting.
 - [Ethereum Localism](https://www.ethereumlocalism.xyz/) - Local Ethereum communities worldwide.
 - [Built on Ethereum](https://www.builtonethereum.network/) - Showcase of projects built on Ethereum.
 
@@ -101,7 +106,7 @@
 - [A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence) - John Perry Barlow, February 8, 1996.
 - [A Cypherpunk's Manifesto](https://cdn.nakamotoinstitute.org/docs/cypherpunk-manifesto.txt) - Eric Hughes, March 9, 1993.
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) - Satoshi Nakamoto, October 31, 2008.
-- [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) - Vitalik Buterin, November 2023.
+- [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) - Vitalik Buterin, November 2013.
 - [The Ethereum Cypherpunk Manifesto](https://hackmd.io/@pcaversaccio/the-ethereum-cypherpunk-manifesto) - March 16, 2024.
 - [The Trustless Manifesto](https://trustlessness.eth.limo/general/2025/11/11/the-trustless-manifesto.html) - Yoav Weiss, Vitalik Buterin, Marissa Posner - November 11, 2025.
 
