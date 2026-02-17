@@ -53,6 +53,7 @@
 - [Privacy & Scaling Explorations](https://pse.dev/) - Research and development lab delivering privacy to the Ethereum ecosystem.
 - [Kohaku](https://ethereum.github.io/kohaku/getting-started) - Ethereum privacy and development tooling.
 - [Web3Privacy Now](https://web3privacy.info/) - Community initiative advocating for privacy in Web3.
+- [w3pk](https://w3pk.w3hc.org/) - Passwordless Web3 authentication SDK with encrypted wallets and privacy features.
 
 ## Tools
 
