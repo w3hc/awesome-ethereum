@@ -64,6 +64,7 @@
 - [Ethereum Digital Oil](https://ethdigitaloil.com/) - ETH as digital commodity resource.
 - [WalletBeat](https://beta.walletbeat.eth.limo/test/) - Wallet evaluation and comparison tool.
 - [7702Beat](https://7702beat.swiss-knife.xyz/#tools) - Tools for EIP-7702 account abstraction.
+- [ETH Airgap Bridge](https://github.com/paranoid-qrypto/eth-airgap-bridge) - 100% client-side tool for broadcasting signed Ethereum transactions from air-gapped wallets.
 
 ## Infrastructure
 
