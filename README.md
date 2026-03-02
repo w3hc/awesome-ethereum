@@ -84,6 +84,7 @@
 - [Stable Yields](https://www.stableyields.info/) - APY comparison between stablecoins.
 - [ETH Val](https://ethval.com/) - Ethereum validation and staking information.
 - [Forkcast](https://forkcast.org/) - Ethereum network fork monitoring and predictions.
+- [Strawmap](https://strawmap.org/) - Ethereum ecosystem mapping and visualization.
 
 ## Community & Education
 
@@ -92,6 +93,7 @@
 - [Vitalik's Blog](https://vitalik.eth.limo/) - Thoughts and research from Ethereum's co-founder.
 - [Ethereum Localism](https://www.ethereumlocalism.xyz/) - Local Ethereum communities worldwide.
 - [Built on Ethereum](https://www.builtonethereum.network/) - Showcase of projects built on Ethereum.
+- [ETH Skills](https://ethskills.com/) - Skills and education platform for Ethereum developers.
 
 ## Funding & Grants
 
