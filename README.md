@@ -25,6 +25,7 @@
 - [Solidity docs](https://docs.soliditylang.org/en/latest/) - Official Solidity language documentation.
 - [Hardhat](https://hardhat.org/) - Development environment for Ethereum software.
 - [Foundry](https://book.getfoundry.sh/) - Blazing fast, portable and modular toolkit for Ethereum application development.
+- [Dokrypt](https://github.com/dokrypt-org/dokrypt) - Open source CLI for spinning up full blockchain dev environments with local chains, block explorers, IPFS, oracles, and testing from a single YAML config.
 - [Ethers.js](https://docs.ethers.org/v6/) - Complete Ethereum library and wallet implementation in JavaScript.
 - [EVM Codes](https://www.evm.codes/) - An interactive reference to Ethereum Virtual Machine opcodes.
 - [Open Zeppelin Wizard](https://wizard.openzeppelin.com/) - Interactive smart contract generator.
