@@ -63,6 +63,7 @@
 - [BIP39 Tool](https://iancoleman.io/bip39/) - Mnemonic code converter for generating deterministic keys.
 - [Ethereum Digital Oil](https://ethdigitaloil.com/) - ETH as digital commodity resource.
 - [WalletBeat](https://beta.walletbeat.eth.limo/test/) - Wallet evaluation and comparison tool.
+- [EthGasStation](https://ethgasstation.io) - Live Ethereum gas stats, alerts, and workflow tools to help users and teams make better before-send transaction decisions.
 - [7702Beat](https://7702beat.swiss-knife.xyz/#tools) - Tools for EIP-7702 account abstraction.
 
 ## Infrastructure
