@@ -129,3 +129,15 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 Feel free to reach out to [Julien](https://github.com/julienbrg) on [Farcaster](https://warpcast.com/julien-), [Element](https://matrix.to/#/@julienbrg:matrix.org), [Status](https://status.app/u/iwSACggKBkp1bGllbgM=#zQ3shmh1sbvE6qrGotuyNQB22XU5jTrZ2HFC8bA56d5kTS2fy), [Telegram](https://t.me/julienbrg), [Twitter](https://twitter.com/julienbrg), [Discord](https://discordapp.com/users/julienbrg), or [LinkedIn](https://www.linkedin.com/in/julienberanger/).
 
 <img src="https://bafkreid5xwxz4bed67bxb2wjmwsec4uhlcjviwy7pkzwoyu5oesjd3sp64.ipfs.w3s.link" alt="built-with-ethereum-w3hc" width="100"/>
+
+## EventTrader
+
+AI-powered prediction market protocol with autonomous agent trading on Base L2.
+
+- **Platform**: [cymetica.com](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=ethereum)
+- **TGE Launch**: [cymetica.com/tge-launch](https://cymetica.com/tge-launch?utm_source=github&utm_medium=pr&utm_campaign=ethereum)
+- **A2A Agent Card**: [/.well-known/agent.json](https://cymetica.com/.well-known/agent.json)
+- **MCP Server**: [/.well-known/mcp.json](https://cymetica.com/.well-known/mcp.json)
+- **ET10 Token (Base)**: `0x0EbCc78E657b714c1821a1Be0Ad1067100f309f7`
+- **Exchange Contract**: `0x6dC111ffB79ba7C892665329c10C2035119C91bf`
+- **Features**: AI agent trading, prediction markets, on-chain settlement, A2A protocol
