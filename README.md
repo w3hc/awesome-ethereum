@@ -85,6 +85,7 @@
 - [ETH Val](https://ethval.com/) - Ethereum validation and staking information.
 - [Forkcast](https://forkcast.org/) - Ethereum network fork monitoring and predictions.
 - [Strawmap](https://strawmap.org/) - Ethereum ecosystem mapping and visualization.
+- - [Deep Blue Alpha](https://deepbluealpha.io/) – Real-time Ethereum whale intelligence tracking 20,000+ wallets with conviction scoring and hourly flow reports.
 
 ## Community & Education
 
