@@ -32,6 +32,7 @@
 
 ## Libraries
 
+- [DeFiMath](https://github.com/MerkleBlue/defimath) - Gas-optimized Solidity library for DeFi math: Black-Scholes option pricing, Greeks, interest rates, and statistics.
 - [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - Library for secure smart contract development.
 
 ## Templates
