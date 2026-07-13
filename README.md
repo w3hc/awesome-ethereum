@@ -64,6 +64,7 @@
 - [Ethereum Digital Oil](https://ethdigitaloil.com/) - ETH as digital commodity resource.
 - [WalletBeat](https://beta.walletbeat.eth.limo/test/) - Wallet evaluation and comparison tool.
 - [7702Beat](https://7702beat.swiss-knife.xyz/#tools) - Tools for EIP-7702 account abstraction.
+- [Formo Tools](https://formo.so/tools) - Free web3 tools for analytics, attribution, and growth: generators, calculators, and EVM developer utilities.
 
 ## Infrastructure
 
@@ -85,6 +86,7 @@
 - [ETH Val](https://ethval.com/) - Ethereum validation and staking information.
 - [Forkcast](https://forkcast.org/) - Ethereum network fork monitoring and predictions.
 - [Strawmap](https://strawmap.org/) - Ethereum ecosystem mapping and visualization.
+- [Formo](https://formo.so) - Analytics and attribution platform for web3.
 
 ## Community & Education
 
