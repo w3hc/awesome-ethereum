@@ -64,6 +64,7 @@
 - [Ethereum Digital Oil](https://ethdigitaloil.com/) - ETH as digital commodity resource.
 - [WalletBeat](https://beta.walletbeat.eth.limo/test/) - Wallet evaluation and comparison tool.
 - [7702Beat](https://7702beat.swiss-knife.xyz/#tools) - Tools for EIP-7702 account abstraction.
+- [Indiadex Swap Widget](https://indiadexswap.xyz/embed-widget) - Free embeddable non-custodial cross-chain swap widget (LI.FI-powered), add to any site with one script tag.
 
 ## Infrastructure
 
