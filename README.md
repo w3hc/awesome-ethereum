@@ -85,6 +85,7 @@
 - [ETH Val](https://ethval.com/) - Ethereum validation and staking information.
 - [Forkcast](https://forkcast.org/) - Ethereum network fork monitoring and predictions.
 - [Strawmap](https://strawmap.org/) - Ethereum ecosystem mapping and visualization.
+- [AtlasYield](https://atlasyield.club/) - Independent 0-100 ratings for DeFi yield vaults across 16 risk and return factors, with a public read-only scores API.
 
 ## Community & Education
 
