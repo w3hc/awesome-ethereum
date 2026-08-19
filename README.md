@@ -64,6 +64,7 @@
 - [Ethereum Digital Oil](https://ethdigitaloil.com/) - ETH as digital commodity resource.
 - [WalletBeat](https://beta.walletbeat.eth.limo/test/) - Wallet evaluation and comparison tool.
 - [7702Beat](https://7702beat.swiss-knife.xyz/#tools) - Tools for EIP-7702 account abstraction.
+- [SolveBar](https://solvebar.com/) - Free browser-based Ethereum toolkit: gas tracker, ABI decoder/encoder, Wei/Gwei/ETH converter, wallet age checker, and BIP39 generator. No signup, nothing sent to a server.
 
 ## Infrastructure
 
