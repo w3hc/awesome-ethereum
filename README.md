@@ -79,6 +79,7 @@
 ## Analytics & Monitoring
 
 - [L2BEAT](https://l2beat.com/) - Analytics and research platform for Ethereum layer 2 scaling solutions.
+- [CoinVerum](https://coinverum.com/) - Open-source Ethereum mainnet DEX analytics for on-chain prices, TVL, volume, trades, pools, and active addresses.
 - [Ultrasound Money](https://ultrasound.money/) - Real-time Ethereum issuance and burn tracker.
 - [clientdiversity.org](https://clientdiversity.org/) - Monitor and improve Ethereum client diversity.
 - [Stable Yields](https://www.stableyields.info/) - APY comparison between stablecoins.
