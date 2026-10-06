@@ -71,6 +71,7 @@
 - [IPFS](https://ipfs.tech/) - InterPlanetary File System for decentralized storage.
 - [EAS](https://attest.sh/) - Ethereum Attestation Service for on-chain attestations.
 - [DappNode](https://dappnode.io/) - Decentralized infrastructure platform for running nodes.
+- [LYFTIUM](https://www.lyftium.com/) - Ethereum Mainnet JSON-RPC with rpm pricing, `X-Api-Key` auth, and fail-closed 503 when the tip gate is closed.
 
 ## Indexers
 
