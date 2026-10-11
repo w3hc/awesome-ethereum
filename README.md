@@ -47,6 +47,7 @@
 - [Speedrun Ethereum](https://speedrunethereum.com/) - Learn Ethereum development by completing hands-on challenges.
 - [Superchain Audit Service Providers](https://hackmd.io/@wbnns/superchain-audit-service-providers) - Directory of audit service providers for the Superchain ecosystem.
 - [Rekt](https://rekt.news/) - DeFi security and incident reporting.
+- [SEAL 911](https://github.com/security-alliance/seal-911) - Emergency hotline to trusted security professionals, reachable via a Telegram bot.
 
 ## Privacy
 
