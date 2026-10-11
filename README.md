@@ -14,6 +14,7 @@
 - [Indexers](#indexers)
 - [Analytics & Monitoring](#analytics--monitoring)
 - [Community & Education](#community--education)
+- [News & Media](#news--media)
 - [Funding & Grants](#funding--grants)
 - [Foundational Texts](#foundational-texts)
 - [Devs to Follow](#devs-to-follow)
@@ -97,6 +98,12 @@
 - [Ethereum Localism](https://www.ethereumlocalism.xyz/) - Local Ethereum communities worldwide.
 - [Built on Ethereum](https://www.builtonethereum.network/) - Showcase of projects built on Ethereum.
 - [ETH Skills](https://ethskills.com/) - Skills and education platform for Ethereum developers.
+
+## News & Media
+
+- [ETH Daily](https://ethdaily.io/) - Daily Ethereum news briefing and podcast.
+- [The Daily Gwei](https://thedailygwei.substack.com/) - Daily Ethereum commentary by Anthony Sassano.
+- [Bankless](https://www.bankless.com/) - Media brand covering Ethereum, crypto and DeFi.
 
 ## Funding & Grants
 
