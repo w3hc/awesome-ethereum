@@ -98,6 +98,10 @@
 - [Ethereum Localism](https://www.ethereumlocalism.xyz/) - Local Ethereum communities worldwide.
 - [Built on Ethereum](https://www.builtonethereum.network/) - Showcase of projects built on Ethereum.
 - [ETH Skills](https://ethskills.com/) - Skills and education platform for Ethereum developers.
+- [ECH Institute](https://echinstitute.org/) - Non-profit supporting protocol governance, EIP coordination and community education.
+- [ETHPanda](https://ethpanda.org/) - Builders supporting the Chinese-speaking Ethereum community.
+- [Ethereum Research](https://ethresear.ch/) - Forum for Ethereum protocol research discussions.
+- [The Fair Launch Handbook](https://github.com/zscole/fairlaunch.org) - Guide to fair token distribution for projects and participants.
 
 ## News & Media
 
