@@ -81,6 +81,7 @@
 ## Analytics & Monitoring
 
 - [L2BEAT](https://l2beat.com/) - Analytics and research platform for Ethereum layer 2 scaling solutions.
+- [growthepie](https://www.growthepie.com/) - Open analytics platform for Ethereum mainnet and layer 2s.
 - [Ultrasound Money](https://ultrasound.money/) - Real-time Ethereum issuance and burn tracker.
 - [issuance.wtf](https://issuance.wtf/) - Resources on Ethereum's current issuance debate.
 - [clientdiversity.org](https://clientdiversity.org/) - Monitor and improve Ethereum client diversity.
