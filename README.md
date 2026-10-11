@@ -81,11 +81,13 @@
 
 - [L2BEAT](https://l2beat.com/) - Analytics and research platform for Ethereum layer 2 scaling solutions.
 - [Ultrasound Money](https://ultrasound.money/) - Real-time Ethereum issuance and burn tracker.
+- [issuance.wtf](https://issuance.wtf/) - Resources on Ethereum's current issuance debate.
 - [clientdiversity.org](https://clientdiversity.org/) - Monitor and improve Ethereum client diversity.
 - [Stable Yields](https://www.stableyields.info/) - APY comparison between stablecoins.
 - [ETH Val](https://ethval.com/) - Ethereum validation and staking information.
 - [Forkcast](https://forkcast.org/) - Ethereum network fork monitoring and predictions.
-- [Strawmap](https://strawmap.org/) - Ethereum ecosystem mapping and visualization.
+- [Strawmap](https://strawmap.org/) - Draft Ethereum L1 protocol roadmap maintained by EF Architecture.
+- [Lean Consensus Roadmap](https://leanroadmap.org/) - Research progress across the Lean Consensus workstreams.
 
 ## Community & Education
 
