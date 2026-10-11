@@ -14,6 +14,7 @@
 - [Indexers](#indexers)
 - [Analytics & Monitoring](#analytics--monitoring)
 - [Community & Education](#community--education)
+- [News & Media](#news--media)
 - [Funding & Grants](#funding--grants)
 - [Foundational Texts](#foundational-texts)
 - [Devs to Follow](#devs-to-follow)
@@ -47,6 +48,7 @@
 - [Speedrun Ethereum](https://speedrunethereum.com/) - Learn Ethereum development by completing hands-on challenges.
 - [Superchain Audit Service Providers](https://hackmd.io/@wbnns/superchain-audit-service-providers) - Directory of audit service providers for the Superchain ecosystem.
 - [Rekt](https://rekt.news/) - DeFi security and incident reporting.
+- [SEAL 911](https://github.com/security-alliance/seal-911) - Emergency hotline to trusted security professionals, reachable via a Telegram bot.
 
 ## Privacy
 
@@ -79,12 +81,15 @@
 ## Analytics & Monitoring
 
 - [L2BEAT](https://l2beat.com/) - Analytics and research platform for Ethereum layer 2 scaling solutions.
+- [growthepie](https://www.growthepie.com/) - Open analytics platform for Ethereum mainnet and layer 2s.
 - [Ultrasound Money](https://ultrasound.money/) - Real-time Ethereum issuance and burn tracker.
+- [issuance.wtf](https://issuance.wtf/) - Resources on Ethereum's current issuance debate.
 - [clientdiversity.org](https://clientdiversity.org/) - Monitor and improve Ethereum client diversity.
 - [Stable Yields](https://www.stableyields.info/) - APY comparison between stablecoins.
 - [ETH Val](https://ethval.com/) - Ethereum validation and staking information.
 - [Forkcast](https://forkcast.org/) - Ethereum network fork monitoring and predictions.
-- [Strawmap](https://strawmap.org/) - Ethereum ecosystem mapping and visualization.
+- [Strawmap](https://strawmap.org/) - Draft Ethereum L1 protocol roadmap maintained by EF Architecture.
+- [Lean Consensus Roadmap](https://leanroadmap.org/) - Research progress across the Lean Consensus workstreams.
 
 ## Community & Education
 
@@ -94,6 +99,16 @@
 - [Ethereum Localism](https://www.ethereumlocalism.xyz/) - Local Ethereum communities worldwide.
 - [Built on Ethereum](https://www.builtonethereum.network/) - Showcase of projects built on Ethereum.
 - [ETH Skills](https://ethskills.com/) - Skills and education platform for Ethereum developers.
+- [ECH Institute](https://echinstitute.org/) - Non-profit supporting protocol governance, EIP coordination and community education.
+- [ETHPanda](https://ethpanda.org/) - Builders supporting the Chinese-speaking Ethereum community.
+- [Ethereum Research](https://ethresear.ch/) - Forum for Ethereum protocol research discussions.
+- [The Fair Launch Handbook](https://github.com/zscole/fairlaunch.org) - Guide to fair token distribution for projects and participants.
+
+## News & Media
+
+- [ETH Daily](https://ethdaily.io/) - Daily Ethereum news briefing and podcast.
+- [The Daily Gwei](https://thedailygwei.substack.com/) - Daily Ethereum commentary by Anthony Sassano.
+- [Bankless](https://www.bankless.com/) - Media brand covering Ethereum, crypto and DeFi.
 
 ## Funding & Grants
 
