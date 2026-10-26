@@ -59,6 +59,7 @@
 
 ## Tools
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local CLI and MCP runtime for Ethereum and other supported networks, with owner-approved transfers and x402 payment tools on macOS Apple Silicon.
 - [Chainlist](https://chainlist.org/) - List of EVM networks with RPC endpoints and chain IDs.
 - [txha.sh](https://txha.sh/) - Paste your transaction hash for quick analysis.
 - [ABI Ninja](https://abi.ninja/) - Ethereum ABI tool for interacting with smart contracts.
