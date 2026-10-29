@@ -59,6 +59,7 @@
 
 ## Tools
 
+- [BitTool Signer](https://github.com/bitbill/bittool-signer-ios) - Offline phone-based EVM transaction signer using QR codes to exchange signing requests and results.
 - [Chainlist](https://chainlist.org/) - List of EVM networks with RPC endpoints and chain IDs.
 - [txha.sh](https://txha.sh/) - Paste your transaction hash for quick analysis.
 - [ABI Ninja](https://abi.ninja/) - Ethereum ABI tool for interacting with smart contracts.
