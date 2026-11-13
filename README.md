@@ -49,6 +49,7 @@
 - [Superchain Audit Service Providers](https://hackmd.io/@wbnns/superchain-audit-service-providers) - Directory of audit service providers for the Superchain ecosystem.
 - [Rekt](https://rekt.news/) - DeFi security and incident reporting.
 - [SEAL 911](https://github.com/security-alliance/seal-911) - Emergency hotline to trusted security professionals, reachable via a Telegram bot.
+- [SCH Smart Contract Audit Checklist](https://smartcontractshacking.com/tools/smart-contract-audit-checklist) - Free interactive checklist for planning and tracking smart contract security reviews.
 
 ## Privacy
 
